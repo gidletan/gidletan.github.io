@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #DAD7D7;
+	margin: 1;
+	
+}
+
+nav {
+	background-color: #DAD7D7;
+	height: 50px;
+	padding-top: 1px;
+	font-size: 16px;
+}
+
+p, h1 {
+	padding-left: 5px;
+}
+
+a {
+	text-decoration: none;
+	color:#525151;
+	font-weight: bold;
+}
+a:hover {
+
+	color:#7E4ED7;
+}
+
+header {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/HVFIk0gZeivb57aza/videoblocks-aerial-view-of-abstract-futuristic-binary-city-a-high-tech-background-with-digital-arrays-connected-to-the-global-network-matrix-seamless-loop-alpha-matte_sp21ofpjz_thumbnail-full01.png);
+	text-align: center;
+	font-weight: bold;
+	color: #FF0000; 
+	font-size: large;
+	font: italic bold 12px/30px Georgia, serif;
+
+}
+
+.title {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+span {
+	font-weight: bold;
+}
+
+div {
+	border-top: solid 1px green;
+}
+
